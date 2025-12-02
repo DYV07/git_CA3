@@ -4,27 +4,27 @@ A responsive movie browsing webpage built with HTML, CSS, and JavaScript, using 
 
 ## 🚀 Features
 
-Featured movie slideshow
+- Featured movie slideshow
 
-Real-time search suggestions
+- Real-time search suggestions
 
-Category, genre & language filters
+- Category, genre & language filters
 
-Movie detail modal with poster, plot & ratings
+- Movie detail modal with poster, plot & ratings
 
-Sections for Top Watched, Action, Comedy, and New Releases
+- Sections for Top Watched, Action, Comedy, and New Releases
 
-Modern dark UI with responsive design
+- Modern dark UI with responsive design
 
 ## 🛠️ Technologies
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
-OMDB API
+- OMDB API
 
 ## ▶️ How to Run
 
