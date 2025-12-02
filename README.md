@@ -28,4 +28,4 @@ A responsive movie browsing webpage built with HTML, CSS, and JavaScript, using 
 
 ## ▶️ How to Run
 
-Simply open Backpage.html in your browser.
+- Simply open Backpage.html in your browser.
