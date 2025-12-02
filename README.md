@@ -1,8 +1,8 @@
-CINE AURA – Movie Explorer
+# CINE AURA – Movie Explorer
 
 A responsive movie browsing webpage built with HTML, CSS, and JavaScript, using the OMDB API to display movies dynamically.
 
-🚀 Features
+## 🚀 Features
 
 Featured movie slideshow
 
@@ -16,7 +16,7 @@ Sections for Top Watched, Action, Comedy, and New Releases
 
 Modern dark UI with responsive design
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 HTML
 
@@ -26,6 +26,6 @@ JavaScript
 
 OMDB API
 
-▶️ How to Run
+## ▶️ How to Run
 
 Simply open Backpage.html in your browser.
